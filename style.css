@@ -600,13 +600,6 @@ li:nth-child(4) {
     line-height: 19.5px;
     display: flex;
   }
-  /* .instructions > li:first-child > .linumber{
-    margin-right: 25px;
-  }
-  .instructions > li:first-child > .txt{
-    margin-right: 15px;
-  } */
-
   .instructions >li:nth-child(1), li:nth-child(2), li:nth-child(3), li:nth-child(4), 
   li:nth-child(5), li:nth-child(6), li:nth-child(7){
     margin-right: 15px;

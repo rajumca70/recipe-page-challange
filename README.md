@@ -56,5 +56,4 @@ User story: I can see the number of servings, baking times
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [rajendrana.a](https://{github.com/rajumca70)
